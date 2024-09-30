@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'blog.xiaoyuezhou.top',
   HEO_HERO_TITLE_4: '科研方法',
   HEO_HERO_TITLE_5: '我的科研经验分享',
-  HEO_HERO_TITLE_LINK: 'https://blog.xiaoyuezhou.top/科研',
+  HEO_HERO_TITLE_LINK: 'https://blog.xiaoyuezhou.top/tag/科研',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '学习分享', url: 'blog.xiaoyuezhou.top/tag/学习分享' },
