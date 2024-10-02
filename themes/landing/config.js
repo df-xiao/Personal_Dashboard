@@ -13,10 +13,10 @@ const CONFIG = {
   LANDING_HERO_BUTTON_1_LINK: 'https://blog.xiaoyuezhou.top/category/学习分享',
   LANDING_HERO_BUTTON_2_TEXT: '技术分享',
   LANDING_HERO_BUTTON_2_LINK: 'https://blog.xiaoyuezhou.top/category/技术分享',
-  LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
-  HERO_VIDEO_URL: '/videos/video.mp4',
-  LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
-  LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
+  // LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
+  // HERO_VIDEO_URL: '/videos/video.mp4',
+  // LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
+  // LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
 
   // 特性介绍
   LANDING_FEATURES_HEADER_1: '我是谁？',
